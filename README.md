@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhunt81
+- 👋🏾 Hi, I’m @jhunt81
 - 👀 I’m interested in learning full stack development. 
 - 🌱 I’m currently learning C, HTML, CSS, Javascript.
 - 💞️ I’m looking to collaborate on whatever is available. 
